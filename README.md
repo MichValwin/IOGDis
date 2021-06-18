@@ -12,4 +12,4 @@ Progress made disassembling Illusion of gaia (USA) rom (just playing while using
 
 ---
 
-Used bsnes tracker until freejia mines
+Used live tracelog capture until freejia mines
