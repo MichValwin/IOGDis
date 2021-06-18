@@ -11,3 +11,5 @@ Progress made disassembling Illusion of gaia (USA) rom:
 |SHA-256|32ADC048FD89228A4310C03DF243E83DE7D436CDB2460B4CC83ADE20D359B2BD|
 
 ---
+
+Used bsnes tracker until freejia mines
