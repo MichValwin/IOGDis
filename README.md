@@ -1,7 +1,7 @@
 # IOGDis
 Illusion of Gaia dissasemble on diztinGUIsh
 
-Progress made disassembling Illusion of gaia (USA) rom:
+Progress made disassembling Illusion of gaia (USA) rom (just playing while using live tracelog capture):
 
 | | Hash |
 | ------------- | ------------- |
