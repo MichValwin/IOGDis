@@ -1,5 +1,5 @@
 # IOGDis
-Illusion of Gaia dissasemble on diztinGUIsh
+Illusion of Gaia dissasemble on [diztinGUIsh](https://github.com/Dotsarecool/DiztinGUIsh)
 
 Progress made disassembling Illusion of gaia (USA) rom (just playing while using live tracelog capture):
 
