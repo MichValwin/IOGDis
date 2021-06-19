@@ -12,4 +12,4 @@ Progress made disassembling Illusion of gaia (USA) rom (just playing while using
 
 ---
 
-Used live tracelog capture until Angel Village
+Used live tracelog capture on a entire playthtough from beginning to the end.
