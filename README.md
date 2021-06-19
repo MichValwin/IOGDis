@@ -1,5 +1,5 @@
 # IOGDis
-Illusion of Gaia dissasemble on diztinGUIsh
+Illusion of Gaia dissasemble with [diztinGUIsh](https://github.com/Dotsarecool/DiztinGUIsh)
 
 Progress made disassembling Illusion of gaia (USA) rom (just playing while using live tracelog capture):
 
@@ -12,4 +12,4 @@ Progress made disassembling Illusion of gaia (USA) rom (just playing while using
 
 ---
 
-Used live tracelog capture until freejia mines
+Used live tracelog capture until Angel Village
