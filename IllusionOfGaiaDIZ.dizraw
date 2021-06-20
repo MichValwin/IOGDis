@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectXmlSerializer-Root xmlns:exs="https://extendedxmlserializer.github.io/v2" xmlns:ns1="clr-namespace:Diz.Core.model;assembly=Diz.Core" xmlns:ns2="clr-namespace:IX.Observable;assembly=IX.Observable" xmlns:sys="https://extendedxmlserializer.github.io/system" SaveVersion="101" Watermark="DiztinGUIsh" Extra1="" Extra2="" xmlns="clr-namespace:Diz.Core.serialization.xml_serializer;assembly=Diz.Core">
-  <Project AttachedRomFilename="C:\IOGDis\IllusionOfGaiaUSA.sfc" InternalRomGameName="ILLUSION OF GAIA USA " InternalCheckSum="3198763350" CurrentViewOffset="0">
+  <Project AttachedRomFilename="C:\IOGDis\resources\IllusionOfGaiaUSA.sfc" InternalRomGameName="ILLUSION OF GAIA USA " InternalCheckSum="3198763350" CurrentViewOffset="1769451">
     <LogWriterSettings Format="%label:-22% %code:37%;%pc%|%bytes%|%ia%; %comment%" DataPerLine="8" Unlabeled="ShowInPoints" Structure="OneBankPerFile" IncludeUnusedLabels="false" PrintLabelSpecificComments="false" OutputExtraWhitespace="true" RomSizeOverride="-1" FileOrFolderOutPath="C:\IOGDis\disss" OutputToString="false" ErrorFilename="errors.txt" />
     <Data exs:member="" RomMapMode="HiRom" RomSpeed="FastRom">
+      <Comments AutomaticallyCaptureSubItems="false" HistoryLevels="50">
+        <sys:Item Key="12582912" Value="Graphics without compression?" />
+        <sys:Item Key="13479936" Value="Graphics without compression?" />
+        <sys:Item Key="14319616" Value="Graphics with SNES4BPP" />
+        <sys:Item Key="14385152" Value="Graphics with SNES4BPP" />
+        <sys:Item Key="14450688" Value="Graphics in SNES4BPP" />
+        <sys:Item Key="14516224" Value="Graphics SNES4BPP" />
+        <sys:Item Key="12648448" Value="Graphics compression: Quintet1" />
+        <sys:Item Key="12656639" Value="Graphics compression: Quintet1" />
+      </Comments>
       <Labels AutomaticallyCaptureSubItems="false" HistoryLevels="50">
         <sys:Item Key="32775">
           <Value Name="Native_COP" Comment="" />
@@ -16,10 +26,14 @@
         <sys:Item Key="32768">
           <Value Name="Emulation_RESET" Comment="" />
         </sys:Item>
+        <sys:Item Key="12582912">
+          <Value Name="" Comment="" />
+        </sys:Item>
       </Labels>
       <RomBytes exs:member="">
 version:200,compress_groupblocks,compress_table_1
-r 32768 U
+r 8938 G
+r 23830 U
 +D
 +D
 +D
@@ -24774,7 +24788,10 @@ B
 B
 B
 r 32 E
-r 98304 U
+r 8192 G
+r 57344 U
+r 8192 G
+r 24576 U
 +081106
 .081106
 +C81106
@@ -48596,7 +48613,9 @@ r 27 U
 +081
 +C81
 +C81
-r 36724 U
+r 3956 U
+r 8192 G
+r 24576 U
 +C81
 +C81
 .C81
@@ -67440,7 +67459,9 @@ r 177 U
 .C81
 +081
 +C81
-r 36354 U
+r 3583 U
+r 8192 G
+r 24579 U
 +08112A
 U
 U
@@ -125896,7 +125917,9 @@ U
 .08113
 +08113
 .08113
-r 35165 U
+r 2394 U
+r 8192 G
+r 24579 U
 +081109
 .081109
 .081109
@@ -151560,7 +151583,9 @@ r 15 U
 +08112D
 .08112D
 +08112D
-r 33404 U
+r 633 U
+r 8192 G
+r 24579 U
 +081109
 .081109
 .081109
@@ -175934,7 +175959,29 @@ U
 .0811
 .0811
 .0811
-r 1247713 U
+r 2529 U
+r 8192 G
+r 36864 U
+r 16353 G
+r 4127 U
+r 8192 G
+r 57344 U
+r 8192 G
+r 57344 U
+r 8192 G
+r 3952 U
+Ug
+r 53391 U
+r 8192 G
+r 614400 U
+r 32768 G
+r 32768 U
+r 32768 G
+r 32768 U
+r 23936 G
+r 41600 U
+r 8192 G
+r 155648 U
 </RomBytes>
     </Data>
   </Project>
